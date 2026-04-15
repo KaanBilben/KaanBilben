@@ -11,7 +11,7 @@
 
 ---
 
-** 🎟️ Öne Çıkan Projem **
+## 🎟️ Öne Çıkan Projem 
 
 ### Konser Bileti Yönetim Sistemi
 

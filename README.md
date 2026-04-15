@@ -7,7 +7,7 @@
 
 **🛠️ Nelerle Uğraşıyorum?**
 - **Back-end & Veritabanı:** PHP ve Oracle SQL ile konser biletleme gibi merkezi ve ölçeklenebilir sistemler tasarlıyorum.
-- **Oyun & AI:** Oyun yazılımları, retro oyun emülatörleri ve Llama 3 / Mistral gibi yapay zeka modellerinin mimarileri üzerinde denemeler yapıyorum.
+- **Oyun & AI:** Oyun yazılımları ve Llama 3 / Mistral gibi yapay zeka modellerinin mimarileri üzerinde denemeler yapıyorum.
 
 ---
 

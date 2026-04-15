@@ -3,9 +3,21 @@
 🚀 Ağırlıklı olarak **Back-end sistemleri** ve **Oyun Yazılımları** üzerine çalışıyorum.
 🧠 Son zamanlarda **Büyük Dil Modelleri (LLM)** ve yapay zekanın empati/taklit yetenekleri üzerine (TÜBİTAK projeleri kapsamında) araştırmalar yapıyorum.
 
+---
+
 **🛠️ Nelerle Uğraşıyorum?**
 - **Back-end & Veritabanı:** PHP ve Oracle SQL ile konser biletleme gibi merkezi ve ölçeklenebilir sistemler tasarlıyorum.
 - **Oyun & AI:** Oyun yazılımları, retro oyun emülatörleri ve Llama 3 / Mistral gibi yapay zeka modellerinin mimarileri üzerinde denemeler yapıyorum.
+
+---
+
+** 🎟️ Öne Çıkan Projem **
+
+### Konser Bileti Yönetim Sistemi
+
+🔗 [Ulaşmak için buraya tıklayabilirsiniz](https://github.com/emrehekimoglu/concert-ticket-reservation-system)
+
+---
 
 **📫 Bana Ulaşın:**
 <br>

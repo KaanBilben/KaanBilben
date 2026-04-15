@@ -1,4 +1,4 @@
-## 👋 Merhaba, ben [Adın]! 👋
+## 👋 Merhaba, ben Kaan! 👋
 💻 Atılım Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 🚀 Ağırlıklı olarak **Back-end sistemleri** ve **Oyun Yazılımları** üzerine çalışıyorum.
 🧠 Son zamanlarda **Büyük Dil Modelleri (LLM)** ve yapay zekanın empati/taklit yetenekleri üzerine (TÜBİTAK projeleri kapsamında) araştırmalar yapıyorum.
